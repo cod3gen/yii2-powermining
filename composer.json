@@ -1,0 +1,21 @@
+{
+    "name": "powermining/yii2-powermining",
+    "description": "Pool extension for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["powermining","pool"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "cod3gen",
+            "email": "contactpowerm@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pm\\\\pool\\\\": ""
+        }
+    }
+}
